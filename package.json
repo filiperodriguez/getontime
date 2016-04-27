@@ -1,7 +1,7 @@
 {
   "name": "Base",
   "version": "1.0.0",
-  "description": "Basic structure for Express web apps.",
+  "description": "Get On Time.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -14,12 +14,12 @@
     "express",
     "structure"
   ],
-  "author": "Terlici Ltd.",
+  "author": "Filipe Rodriguez",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.12.3",
-    "express": "^4.12.3",
-    "jade": "^1.9.2"
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
   },
   "devDependencies": {
     "mocha": "^2.2.4",
